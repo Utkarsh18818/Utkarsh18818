@@ -7,26 +7,6 @@ Also have a basic touch of backend using **Node.js** and **Express.js**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/utkarsh-singh-2133a2324/)
 
 ---
-
-### 📊 GitHub Analytics
-
-<picture>
-  <source 
-    srcset="https://Utkarsh18818.github.io/github-readme-stats/api?username=Utkarsh18818&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img 
-    src="https://Utkarsh18818.github.io/github-readme-stats/api?username=Utkarsh18818&show_icons=true"
-    alt="GitHub Stats"
-  />
-</picture>
-
-<img src="https://Utkarsh18818.github.io/github-readme-streak-stats/?user=Utkarsh18818&theme=tokyonight&hide_border=true" />
-
-<img src="https://Utkarsh18818.github.io/github-readme-stats/api/top-langs/?username=Utkarsh18818&layout=pie&theme=tokyonight" />
-
----
-
 <!-- Optional: visitor count -->
 <!-- ![visitors](https://komarev.com/ghpvc/?username=Utkarsh18818&label=Profile%20views&color=0e75b6&style=flat) -->
 ---
@@ -51,8 +31,7 @@ Also have a basic touch of backend using **Node.js** and **Express.js**.
 - 🧠 **AI Assistant** — Python-based voice command assistant (backend logic).
 - 📦 **Minimal Backend APIs** — Node.js & Express.js REST APIs for practice and deployment.
 
----
-![snake gif](https://github.com/Utkarsh18818/Utkarsh18818/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
