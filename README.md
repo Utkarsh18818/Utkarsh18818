@@ -52,6 +52,8 @@ Also have a basic touch of backend using **Node.js** and **Express.js**.
 - 📦 **Minimal Backend APIs** — Node.js & Express.js REST APIs for practice and deployment.
 
 ---
+![snake gif](https://github.com/Utkarsh18818/Utkarsh18818/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!--
