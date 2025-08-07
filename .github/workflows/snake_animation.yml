@@ -19,11 +19,11 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push to GitHub
+      - name: Commit and Push to GitHub
         run: |
           git config user.name "Utkarsh18818"
-          git config user.email "your-email@example.com"
+          git config user.email "utkarsh@example.com"  # ✅ use your GitHub email here
           mv dist/github-contribution-grid-snake.svg ./github-contribution-grid-snake.svg
           git add github-contribution-grid-snake.svg
-          git commit -m "Update snake animation"
+          git commit -m "Update snake animation" || echo "No changes to commit"
           git push
