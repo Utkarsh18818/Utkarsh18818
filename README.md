@@ -53,11 +53,6 @@ Also have a basic touch of backend using **Node.js** and **Express.js**.
 
 ---
 
-### ✨ Fun Animation (GitHub Contribution Snake)
-
-![snake gif](https://github.com/Utkarsh18818/Utkarsh18818/blob/output/github-contribution-grid-snake.svg)
-
-_To enable this animation, you'll need to set up the [GitHub Snake Action](https://github.com/Platane/snk)._ Let me know if you'd like help setting that up!
 
 <!--
 **Utkarsh18818/Utkarsh18818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
